@@ -1,0 +1,4 @@
+Publier les 10 images PNG dans le dossier icones/ du depot GitHub public nolanpayeux/ccpg_umap_icones (branche main).
+Importer producteurs_CCPG_icones_gouttes.geojson dans un nouveau calque uMap.
+Dans le calque, regler Forme de l’icone = Aucun si disponible afin de ne pas afficher une deuxieme goutte uMap derriere l’image complete. Activer Avec cluster.
+Les icones ne sont pas integrees en binaire au GeoJSON ; chaque objet possede son URL dans _umap_options.iconUrl.
